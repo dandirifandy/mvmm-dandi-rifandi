@@ -1,4 +1,4 @@
-package id.ac.unhas.myapplication
+package id.ac.unhas.myapplication.db
 
 import android.app.Application
 import androidx.lifecycle.LiveData

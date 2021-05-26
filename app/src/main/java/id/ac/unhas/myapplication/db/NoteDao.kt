@@ -1,4 +1,4 @@
-package id.ac.unhas.myapplication
+package id.ac.unhas.myapplication.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
