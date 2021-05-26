@@ -9,7 +9,7 @@ import androidx.room.RoomDatabase
 @Database(entities = [Note::class], exportSchema = false, version = 1)
 abstract class AppDatabase : RoomDatabase() {
     abstract fun noteDao(): NoteDao
-
+//
     companion object {
 
         private const val DB_NAME = "NOTE_DB"
